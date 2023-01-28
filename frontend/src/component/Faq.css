@@ -1,0 +1,50 @@
+/* .dropdown-basic{
+background-color: #d3e0ea7e;
+color: #276678;
+border: 0px;
+width: 60vw;
+margin: 10px;
+}
+.drop-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.dropdown-toggle::after{
+float:right;
+}
+#myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 20px;
+  } */
+.ques{
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+    width:80vw;
+    border-radius: 10px;
+    margin-left: 10vw;
+    align-self: center;
+}
+.ques-hd{
+  display: flex;
+  align-items: center;
+justify-content: space-between;
+}
+.down-icon{
+  /* margin-left: 20vw; */
+  float:right;
+}
+.Faq-heading{
+    color: #276678;
+    text-align: center;
+}
+.ques h3{
+    color: #276678;
+}
+  .ques p{
+    color:#3498db;
+  }

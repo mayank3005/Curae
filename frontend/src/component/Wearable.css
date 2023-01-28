@@ -1,0 +1,41 @@
+.Wearables h1{
+    
+color:#276678;
+text-align: center;
+}
+.wear-div{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5vw;
+}
+.item{
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 5px;
+}
+.item-desc,.item-price{
+    margin: 5px;
+    color: #1687A7;
+}
+.item-name{
+    text-align: center;
+    color:#276678;
+}
+.item-img{
+    width:20vw;
+    height: 25vh;
+    margin-bottom: 10px;
+}
+.btn-buy{
+    background-color: #276678;
+    color: white;
+    border:solid white 1px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    /* width: 5vw; */
+    margin-bottom: 20px;
+}

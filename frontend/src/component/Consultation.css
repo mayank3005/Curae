@@ -1,0 +1,20 @@
+.Consultation-heading {
+    color: #276678;
+    margin: 1rem;
+}
+
+.Consultation_card {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    width: 20vw;
+    color: #276678;
+}
+
+.cons-desc {
+    color: #1687A7;
+}
+
+.cons-card-img {
+    width: 8vw;
+}

@@ -1,0 +1,82 @@
+.form-field {
+    border-radius: 5px;
+    padding: 5px;
+    width: 35vw;
+    margin: 10px;
+}
+
+.user-img {
+    width: 20vw;
+    height: 20vw;
+}
+
+.user {
+    display: flex;
+    justify-content: space-around;
+    padding: 2vw;
+}
+
+.fields {
+    color: white;
+    margin: 10px;
+    font-size: 20px;
+
+}
+
+.user-data {
+    /* //margin: 10vw 0vw; */
+    display: flex;
+    border-radius: 10px;
+    flex-direction: column;
+    float: right;
+    padding: 2vw;
+    background-color: #276678;
+
+}
+
+.track-img,
+.report-img {
+    width: 15vw;
+    margin: 20px;
+}
+
+.old-reports,
+.track-health {
+    border-radius: 20px;
+    width: 78vw;
+    background-color: white;
+    margin-left: 10px;
+}
+
+.track-heading,
+.report-heading {
+    color: #1687A7;
+    text-align: center;
+}
+
+.track-view,
+.report-view {
+    border-radius: 5px;
+    background-color: #1687A7;
+    color: white;
+    width: 10vw;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.save {
+    border-radius: 5px;
+    background-color: white;
+    color: #1687A7;
+    width: 10vw;
+    padding: 5px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.other-details {
+    display: flex;
+    padding: 3vw;
+    justify-content: space-around;
+
+}

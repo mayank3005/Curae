@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a38753b.css",
+    "main.js": "/static/js/main.5bd43378.js",
+    "static/media/wearable4.jpg": "/static/media/wearable4.661db60e238e52ebc417.jpg",
+    "static/media/wearable3.png": "/static/media/wearable3.037886a0f98b20c64693.png",
+    "static/media/doctor_png.png": "/static/media/doctor_png.7c80611b5b8fdae997be.png",
+    "static/media/logo.png": "/static/media/logo.a6200e6e95b7033dc297.png",
+    "static/media/neurology.png": "/static/media/neurology.73d4bace528d9025c67f.png",
+    "static/media/dermatologist.png": "/static/media/dermatologist.ee3b411ac0f3c2cd064c.png",
+    "static/media/dentistry.png": "/static/media/dentistry.c54d043aadd93237cb14.png",
+    "static/media/urology.png": "/static/media/urology.991efb9a41c8adad8cc0.png",
+    "static/media/orthopaedics.png": "/static/media/orthopaedics.6ae8c6db70ee13f51cdd.png",
+    "static/media/wearable1.jpg": "/static/media/wearable1.6077fa27f30573a34d40.jpg",
+    "static/media/stomach.png": "/static/media/stomach.aad23825a92ddfc5090a.png",
+    "static/media/allergy.png": "/static/media/allergy.422fa3fdf2f3a8100282.png",
+    "static/media/cardiology.png": "/static/media/cardiology.c000814190113dcaf043.png",
+    "static/media/healthcare.png": "/static/media/healthcare.00e9e7fd2a4b84c92467.png",
+    "static/media/tracking.png": "/static/media/tracking.06ba8f1a60c805ebf13b.png",
+    "static/media/find.png": "/static/media/find.a7f823a8b144a2843cc6.png",
+    "static/media/wearable2.jpg": "/static/media/wearable2.5f17ae66f21bb50f77ba.jpg",
+    "static/media/user.png": "/static/media/user.1061dbfa51b06fa8912f.png",
+    "index.html": "/index.html",
+    "main.4a38753b.css.map": "/static/css/main.4a38753b.css.map",
+    "main.5bd43378.js.map": "/static/js/main.5bd43378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a38753b.css",
+    "static/js/main.5bd43378.js"
+  ]
+}
