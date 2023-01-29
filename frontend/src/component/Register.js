@@ -86,13 +86,13 @@ const Register = () => {
                       <input className=' form-control py-3' value={user.state} name="state" onChange={handleInput} type="text" placeholder="State" />
                     </div>
                     <div className="form-outline mb-4">
-                      <input type="password" id="form3Example4" className="form-control py-3"
+                      <input type="password" id="form3Example4" className="form-control py-3" value={user.password} name="password" onChange={handleInput}
                         placeholder='Password'
                       />
                     </div>
 
                     <div className="text-center mt-4">
-                      <button onClick={postData} type="submit" id='signup_btn' className="btn btn-primary btn-block mb-4 btn-lg px-5">
+                      <button onClick={postData} type="button" id='signup_btn' className="btn btn-primary btn-block mb-4 btn-lg px-5">
                         Sign Up
                       </button>
                     </div>

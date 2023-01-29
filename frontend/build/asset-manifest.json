@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4a38753b.css",
-    "main.js": "/static/js/main.5bd43378.js",
+    "main.js": "/static/js/main.2a656d88.js",
     "static/media/wearable4.jpg": "/static/media/wearable4.661db60e238e52ebc417.jpg",
     "static/media/wearable3.png": "/static/media/wearable3.037886a0f98b20c64693.png",
     "static/media/doctor_png.png": "/static/media/doctor_png.7c80611b5b8fdae997be.png",
@@ -22,10 +22,10 @@
     "static/media/user.png": "/static/media/user.1061dbfa51b06fa8912f.png",
     "index.html": "/index.html",
     "main.4a38753b.css.map": "/static/css/main.4a38753b.css.map",
-    "main.5bd43378.js.map": "/static/js/main.5bd43378.js.map"
+    "main.2a656d88.js.map": "/static/js/main.2a656d88.js.map"
   },
   "entrypoints": [
     "static/css/main.4a38753b.css",
-    "static/js/main.5bd43378.js"
+    "static/js/main.2a656d88.js"
   ]
 }
