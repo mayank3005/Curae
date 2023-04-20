@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8748e190.css",
+    "main.js": "/static/js/main.481f064c.js",
+    "static/media/what1.png": "/static/media/what1.179ef973ecf87cf66b7f.png",
+    "static/media/location.jpg": "/static/media/location.053e9341185865301351.jpg",
+    "static/media/hero_carousel1.png": "/static/media/hero_carousel1.52ab8d9c7d3814b91da4.png",
+    "static/media/do10f.jpg": "/static/media/do10f.ee9949a3045f26cdf837.jpg",
+    "static/media/medicines.jpg": "/static/media/medicines.a91a5deeea3d770eab1f.jpg",
+    "static/media/doc7.jpg": "/static/media/doc7.88ed72736c4eac633519.jpg",
+    "static/media/hero-background.png": "/static/media/hero-background.1722b04b1724039af2a1.png",
+    "static/media/neurology.png": "/static/media/neurology.73d4bace528d9025c67f.png",
+    "static/media/newsletter.jpg": "/static/media/newsletter.d4ba938d278741de8575.jpg",
+    "static/media/header_page.jpg": "/static/media/header_page.d789ef399a7155cc992b.jpg",
+    "static/media/dermatologist.png": "/static/media/dermatologist.ee3b411ac0f3c2cd064c.png",
+    "static/media/pediatrician.png": "/static/media/pediatrician.d0c826c2d87ff197ceb1.png",
+    "static/media/cardiology.png": "/static/media/cardiology.0a3fb2203be19ec849f8.png",
+    "static/media/Ophthalmologist.png": "/static/media/Ophthalmologist.422d367215e810ffdd03.png",
+    "static/media/dentistry.png": "/static/media/dentistry.c54d043aadd93237cb14.png",
+    "static/media/urologist.png": "/static/media/urologist.345640ca8c347bd7b9f3.png",
+    "static/media/logo.png": "/static/media/logo.192aea4f56b92d4c4f85.png",
+    "static/media/orthopaedics.png": "/static/media/orthopaedics.6ae8c6db70ee13f51cdd.png",
+    "index.html": "/index.html",
+    "main.8748e190.css.map": "/static/css/main.8748e190.css.map",
+    "main.481f064c.js.map": "/static/js/main.481f064c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8748e190.css",
+    "static/js/main.481f064c.js"
+  ]
+}

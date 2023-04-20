@@ -1,0 +1,272 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ************************* Navbar ******************************* */
+
+.navbar {
+  background-color: #fff !important;
+  box-shadow: 0 15px 20px -20px #333;
+}
+
+.nav-item {
+  margin: 0 15px;
+}
+
+.navbar a {
+  font-size: 1.3rem;
+  text-transform: uppercase !important;
+  color: black;
+}
+
+.navbar a:hover {
+  color: #3498db !important;
+}
+
+.menu-active {
+  /* border-bottom: 1px solid #2490EB; */
+  color: #2490EB !important;
+}
+
+/* ****************************** Home page ***************************** */
+
+.first-section {
+  background-image: url('./images/hero_carousel1.png');
+  background-size: cover;
+  height: 91vh;
+  width: 99vw;
+  display: flex;
+  align-items: center;
+}
+
+.first-section-content {
+  width: 55vw;
+  color: white;
+  padding-left: 5vw;
+}
+
+.first-content-p {
+  font-size: 1.3rem;
+}
+
+/* *********************** first section button **************************** */
+
+.button-19 {
+  appearance: button;
+  background-color: #2490EB;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: din-round, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: .8px;
+  line-height: 20px;
+  margin: 0;
+  outline: none;
+  overflow: visible;
+  padding: 13px 16px;
+  text-align: center;
+  text-transform: uppercase;
+  touch-action: manipulation;
+  transform: translateZ(0);
+  transition: filter .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 150px;
+}
+
+.button-19:after {
+  background-clip: padding-box;
+  background-color: #2490EB;
+  border: solid transparent;
+  border-radius: 16px;
+  border-width: 0 0 4px;
+  bottom: -4px;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.button-19:main,
+.button-19:focus {
+  user-select: auto;
+}
+
+.button-19:hover:not(:disabled) {
+  filter: brightness(1.1);
+  -webkit-filter: brightness(1.1);
+}
+
+.button-19:disabled {
+  cursor: auto;
+}
+
+/* ************************* Apply for doctor section ************************* */
+
+.home-doctor1-img {
+  height: 70vh;
+  width: 35vw;
+}
+
+.apply-doctor-content {
+  width: 100%;
+}
+
+.apply-doctor-section {
+  margin-top: 15vh;
+}
+
+/* ************************ What we do section *********************** */
+
+.what-we-do {
+  margin-top: 15vh;
+  margin-bottom: 10vh;
+}
+
+.what-we-do .box-heading,
+.our-services .box-heading,
+.main-book-appointment .box-heading {
+  display: inline-block;
+  padding: 0 3.5vw;
+  font-size: 1.5rem;
+  background-color: #D3E9FB;
+  color: #2490EB;
+}
+
+/* **************************** Home - Contact ************************ */
+
+.home-contact {
+  padding: 0 5vw;
+  background-image: url('./images/hero-background.png');
+  background-size: cover;
+  height: 30vh;
+  display: flex;
+  align-items: center;
+}
+
+.home-contact .left-content h1 {
+  color: white;
+  font-size: 2.8rem;
+}
+
+/* ************************* Home - our services ************************ */
+
+.our-services {
+  margin: 10vh 0;
+}
+
+.services-cards-section {
+  padding: 0 8vw;
+}
+
+/* ************************* Home - newsletter ************************** */
+
+.home-newsletter {
+  margin-top: 15vh;
+  padding: 80px 0;
+  background: #034983;
+}
+
+.home-newsletter .single {
+  max-width: 650px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
+
+.home-newsletter .single h2 {
+  font-size: 1.8rem;
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 40px;
+}
+
+.home-newsletter .single .form-control {
+  height: 50px;
+  background: white;
+  border-color: transparent;
+  border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .single .form-control:focus {
+  box-shadow: none;
+  border-color: #243c4f;
+}
+
+.home-newsletter .single .btn {
+  min-height: 50px;
+  border-radius: 0 20px 20px 0;
+  background: #2490EB;
+  color: #fff;
+}
+
+/* ************************* Book Appointment **************************** */
+
+.appointment-bar-top {
+  background-image: url('./images/header_page.jpg');
+  background-size: cover;
+  height: 40vh;
+}
+
+.our-doctors-content {
+  margin-left: 10vw;
+}
+
+/* ************************ Map section ********************************** */
+
+.left-side {
+  min-height: 1px;
+  width: 70%;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+}
+
+/* ************************** Apply Doctor Form *************************** */
+
+.applydoc-form-btn {
+  width: 250px !important;
+  margin-top: 30px !important;
+  margin-left: 2px;
+}
+
+/* *********************** Notifications *********************************** */
+
+.notification-tab {
+  margin: 0 8vw;
+  padding: 0 2vw;
+  min-height: 70vh;
+  background-color: aliceblue;
+}
+
+/* ***************************** User's List ******************************** */
+
+.users-list {
+  margin: 3vh 10vw;
+  text-align: center;
+}
+
+/* *************************** Booking Section ******************************* */
+
+.booking-card .container {
+  width: 50vw;
+  margin: 4vh 0;
+  padding: 20px;
+  background-color: rgb(249, 249, 250);
+}
